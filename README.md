@@ -6,6 +6,9 @@ Application can work as web service for online/offline cinema where end user can
 lineup, choose movie-session and order tickets. it also has potential to work as operational system 
 for the cashier inside cinema, small changes needed to fit that task.
 
+### Example of how basic user interface may look like
+![basic_user_interface](https://github.com/VolodymyrBarik/my-cinema-app/assets/92677614/687f5539-f667-4a18-b9ee-de6e14b5b92a)
+
 ### Potential
 
 In short term period different type of functionality can be added, for example: ability to see/choose
