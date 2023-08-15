@@ -56,5 +56,6 @@ movie-session. Functional can be widened to fit needs.
 * config package - here you can find spring web and security settings
 * config/DataInitializer - here you can establish initial entities to have access with
 * config/SecurityConfig/configure - here you can configure access to different parts of application depending
-  on role
+  on role. Below you can see more detailed view of this
+  ![role_settings](https://github.com/VolodymyrBarik/my-cinema-app/assets/92677614/357d20e1-8f2d-46bb-b375-aaf9497c1b60)
 
